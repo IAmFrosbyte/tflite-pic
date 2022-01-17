@@ -1,0 +1,17 @@
+
+# TFLite-MC (Tensorflow Lite - Microchip)
+
+Primary goal of this project is to port Tensorflow-Lite to Microchip device. Reason behind this port was so that I can deploy an inference engine on Microchip's PIC18F45k20. 
+Considering that use case will significantly defer per use case, this fork aims to provide a portable method to tweak core usability without loosing any significant features. 
+
+Requirements
+==============
+- python
+- tensorflow
+- make
+- cmake
+- xxd
+
+Supported Tensorflow operations
+===============================
+- TODO
